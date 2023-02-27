@@ -40,7 +40,7 @@ class Spy
 		{
 			System.out.println("\n\t"+bup+" is not spy number");
 		}
-	}
+	}//
 }
 
 
